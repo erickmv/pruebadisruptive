@@ -515,7 +515,6 @@ add_action('admin_footer', function(){
 add_action('init', function(){
     if (wp_doing_ajax()) {
         // tu handler ya existe como dp_ajax_check_payment
-        // añade esta línea al inicio de esa función:
         // check_ajax_referer('dp_nonce', '_ajax_nonce');
     }
 });
