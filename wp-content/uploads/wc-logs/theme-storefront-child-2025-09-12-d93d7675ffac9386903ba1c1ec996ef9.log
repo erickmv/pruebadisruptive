@@ -1,0 +1,5 @@
+2025-09-12T18:43:48+00:00 ERROR [DP] single HTTP 401 BODY: {"errorCode":"ERROR_002","errorMessage":"The endpoint requires an authorization header"} CONTEXT: {"order_id":137}
+2025-09-12T18:44:02+00:00 ERROR [DP] single HTTP 401 BODY: {"errorCode":"ERROR_002","errorMessage":"The endpoint requires an authorization header"} CONTEXT: {"order_id":137}
+2025-09-12T18:44:49+00:00 ERROR [DP] single HTTP 401 BODY: {"errorCode":"ERROR_002","errorMessage":"The endpoint requires an authorization header"} CONTEXT: {"order_id":137}
+2025-09-12T18:47:07+00:00 ERROR [DP] single HTTP 401 BODY: {"errorCode":"ERROR_002","errorMessage":"The endpoint requires an authorization header"} CONTEXT: {"order_id":137}
+2025-09-12T20:05:39+00:00 ERROR [DP] single HTTP 500 BODY: {"errorCode":"Provided address 0xc2132D05D31c914a87C6611C10748AaCbFfBEc4E is invalid, the capitalization checksum test failed, or it's an indirect IBAN address which can't be converted.","errorMessage":"Provided address 0xc2132D05D31c914a87C6611C10748AaCbFfBEc4E is invalid, the capitalization checksum test failed, or it's an indirect IBAN address which can't be converted."} CONTEXT: {"order_id":138}
