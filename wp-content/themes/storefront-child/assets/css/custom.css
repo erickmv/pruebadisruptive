@@ -251,3 +251,15 @@ body:not(.woocommerce-block-theme-has-button-styles) .wc-block-components-button
 .wc-block-components-quantity-selector:after{
     border-radius:8px!important;
 }
+.storefront-handheld-footer-bar ul li>a{
+    background: #219C93!important;
+    border-radius:8px!important;
+}
+.storefront-handheld-footer-bar ul li>a:hover{
+    background: #219C93!important;
+    border-radius:8px!important;
+}
+.storefront-handheld-footer-bar ul li>a:hover .count{
+    background: #fff!important;
+    color:#219C93!important;
+}
