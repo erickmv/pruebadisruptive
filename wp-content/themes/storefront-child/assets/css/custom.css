@@ -65,8 +65,12 @@
     color: #fff !important;
     border: none !important;
     border-radius: 10px !important;
-    //padding: 12px 20px !important;
+    padding: 12px 20px !important;
     font-weight: 600 !important;
+  }
+  #site-navigation-menu-toggle{
+    padding: 10px 35px !important;
+    background-color: #219C93 !important;
   }
   button:hover,
   .button:hover,
@@ -252,14 +256,5 @@ body:not(.woocommerce-block-theme-has-button-styles) .wc-block-components-button
     border-radius:8px!important;
 }
 .storefront-handheld-footer-bar ul li>a{
-    background: #219C93!important;
-    border-radius:8px!important;
-}
-.storefront-handheld-footer-bar ul li>a:hover{
-    background: #219C93!important;
-    border-radius:8px!important;
-}
-.storefront-handheld-footer-bar ul li>a:hover .count{
-    background: #fff!important;
-    color:#219C93!important;
+    background: #219C93
 }
