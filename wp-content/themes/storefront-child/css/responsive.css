@@ -14,5 +14,5 @@
     padding:.5rem .75rem;border-radius:8px;border:1px solid #ddd;
   }
   .button.button-primary:hover,.woocommerce .button:hover{filter:brightness(1.08);}
-  @media (max-width:640px){.dp-qr-img{width:200px;height:200px}.dp-qr-address{font-size:.9rem,text-align:center}}
+  @media (max-width:640px){.dp-qr-img{width:200px;height:200px}.dp-qr-address{font-size:.9rem,text-align:center;}.site-info{text-align: center;padding-top: 0;}}
   
